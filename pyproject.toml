@@ -9,8 +9,9 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "langchain-core>=1.7.4",
+    "langchain-google-genai>=4.4.2",
     "langchain-openai>=1.7.3",
-    "pydentic>=0.0.1.dev3",
+    "pydantic>=2.14.2",
     "python-dotenv>=1.2.4",
 ]
 
